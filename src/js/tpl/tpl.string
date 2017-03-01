@@ -1,0 +1,146 @@
+<div class="audio">
+		<img src="img/audio1.png" id="img"/>
+		<audio src="陈百强 - 偏偏喜欢你.mp3" autoplay="autoplay" loop="loop"></audio>
+	</div>
+	<div class="swiper-container">
+    <div class="swiper-wrapper">
+        <div class="swiper-slide one">
+        	<div class="one_img ani"  swiper-animate-effect="slideInDown" swiper-animate-duration="1s" swiper-animate-delay="0.5s">
+        		<img src="img/1.png" />
+        	</div>
+        	<div class="one_img3 ani" swiper-animate-effect="fadeInLeft " swiper-animate-duration="1s" swiper-animate-delay="1.5s">
+        		<img src="img/5.png" />
+        	</div>
+        	<div class="one_img5 ani" swiper-animate-effect="fadeInRight " swiper-animate-duration="1s" swiper-animate-delay="1.5s">
+        		<img src="img/7.png" />
+        	</div>
+        	<div class="one_img4 ani" swiper-animate-effect="fadeInUp" swiper-animate-duration="1s" swiper-animate-delay="0.5s">
+        		<img src="img/6.png" />
+        	</div>
+        	<div class="one_img2 ani" swiper-animate-effect="fadeIn" swiper-animate-duration="5s" swiper-animate-delay="0.5s">
+        		<img src="img/3.png" />
+        	</div>
+        	<div class="one_img6 ani" swiper-animate-effect="zoomIn" swiper-animate-duration="0.5s" swiper-animate-delay="0.5s">
+        		<img src="img/6.jpg" id="img1"/>
+        	</div>
+        	<div class="one_img8 ani" swiper-animate-effect="zoomIn" swiper-animate-duration="1s" swiper-animate-delay="0.5s"><img src="img/8.png" /></div>
+        	<div class="one_img9 ani" swiper-animate-effect="zoomIn" swiper-animate-duration="1s" swiper-animate-delay="0.5s"><img src="img/9.png" /></div>
+        	<div class="one_img10 ani" ><img src="img/10.png" /></div>
+    	</div>
+        <div class="swiper-slide two">
+        		<div class="two_img1 ani"  swiper-animate-effect="slideInDown" swiper-animate-duration="1s" swiper-animate-delay="0.5s">
+        		<img src="img/11.png" />
+        	</div>
+        	<div class="two_img2 ani" swiper-animate-effect="fadeInLeft " swiper-animate-duration="1s" swiper-animate-delay="1.5s">
+        		<img src="img/12.png" />
+        	</div>
+        	<div class="two_img3 ani" swiper-animate-effect="fadeInRight " swiper-animate-duration="1s" swiper-animate-delay="1.5s">
+        		<img src="img/13.png" />
+        	</div>
+        	<div class="two_img4 ani" swiper-animate-effect="fadeInRight " swiper-animate-duration="1s" swiper-animate-delay="1.5s">
+        		<img src="img/14.png" />
+        	</div>
+        	<div class="two_img5 ani" swiper-animate-effect="fadeInLeft " swiper-animate-duration="1s" swiper-animate-delay="1.5s">
+        		<img src="img/15.png" />
+        	</div>
+        	<div class="two_img6 ani" swiper-animate-effect="fadeInRight " swiper-animate-duration="1s" swiper-animate-delay="1.5s">
+        		<img src="img/16.png" />
+        		</div>
+        	<div class="two_img7 ani" swiper-animate-effect="fadeInLeft " swiper-animate-duration="1s" swiper-animate-delay="1.5s">
+        		<img src="img/29.png" />
+        	</div>
+        	<div class="two_img8 ani" swiper-animate-effect="fadeInRight " swiper-animate-duration="1s" swiper-animate-delay="1.5s">
+        		<img src="img/30.png" />
+        	</div>
+        	<div class="two_img9 ani" swiper-animate-effect="fadeInRight " swiper-animate-duration="1s" swiper-animate-delay="1.5s">
+        		<img src="img/31.png" />
+        	</div>
+        	<div class="two_text ani" swiper-animate-effect="zoomIn" swiper-animate-duration="1s" swiper-animate-delay="3s">
+        		<span>只做自己的女王</span>
+        	</div>
+        </div>
+        <div class="swiper-slide three">
+        		<div class="three_img1 ani"  swiper-animate-effect="slideInDown" swiper-animate-duration="1s" swiper-animate-delay="0.5s">
+        		<img src="img/6.png" />
+        	</div>
+        	<div class="three_img2 ani" swiper-animate-effect="fadeInLeft " swiper-animate-duration="1s" swiper-animate-delay="1.5s">
+        		<img src="img/17.png" />
+        	</div>
+        	<div class="three_img3 ani" swiper-animate-effect="fadeInRight " swiper-animate-duration="1s" swiper-animate-delay="1.5s">
+        		<img src="img/18.png" />
+        	</div>
+        	<div class="three_img4 ani" swiper-animate-effect="zoomIn" swiper-animate-duration="1s" swiper-animate-delay="3.5s">
+        		<img src="img/19.png" />
+        	</div>
+        	<div class="three_img5 ani" swiper-animate-effect="fadeInLeft " swiper-animate-duration="1s" swiper-animate-delay="3s">
+        		<img src="img/20.png" />
+        	</div>
+        	<div class="three_img6 ani" swiper-animate-effect="fadeInRight " swiper-animate-duration="1s" swiper-animate-delay="3s">
+        		<img src="img/21.png" />
+        	</div>
+        	<div class="three_img7 ani" swiper-animate-effect="fadeInRight " swiper-animate-duration="1s" swiper-animate-delay="1.5s">
+        		<img src="img/22.png" />
+        	</div>
+        	<div class="three_img8 ani" swiper-animate-effect="zoomIn" swiper-animate-duration="1s" swiper-animate-delay="2.5s">
+        		<img src="img/5.jpg" />
+        	</div>
+        	<div class="three_img9 ani" swiper-animate-effect="zoomIn" swiper-animate-duration="1s" swiper-animate-delay="2.5s">
+        		<img src="img/4.png" />
+        	</div>
+        	<div class="three_img10 ani" swiper-animate-effect="zoomIn" swiper-animate-duration="1s" swiper-animate-delay="2.5s">
+        		<img src="img/2.jpg" />
+        	</div>
+        	<div class="three_img11 ani" swiper-animate-effect="fadeInLeft " swiper-animate-duration="1s" swiper-animate-delay="1.5s">
+        		<img src="img/26.png" />
+        	</div>
+        	<div class="three_img12 ani" swiper-animate-effect="fadeInRight " swiper-animate-duration="1s" swiper-animate-delay="1.5s">
+        		<img src="img/27.png" />
+        	</div>
+        	<div class="three_img13 ani" swiper-animate-effect="fadeInUp" swiper-animate-duration="1s" swiper-animate-delay="1.5s">
+        		<img src="img/28.png" />
+        	</div>
+        </div>
+        <div class="swiper-slide four">
+        	<div class="four_img ani" swiper-animate-effect="fadeInLeft" swiper-animate-duration="1s" swiper-animate-delay="0.5s">
+        		<img src="img/32.png" />
+        	</div>
+        	<div class="four_img1 ani" swiper-animate-effect="fadeInLeft" swiper-animate-duration="1s" swiper-animate-delay="0.5s">
+        		<img src="img/33.png"/>
+        	</div>
+        	<div class="four_img2 ani" swiper-animate-effect="zoomIn" swiper-animate-duration="1s" swiper-animate-delay="1.5s">
+        		<img src="img/34.png"/>
+        	</div>
+        	<div class="four_img3 ani" swiper-animate-effect="fadeInRight" swiper-animate-duration="1s" swiper-animate-delay="1s">
+        		<img src="img/35.png"/>
+        	</div>
+        	<div class="four_img4 ani" swiper-animate-effect="zoomIn" swiper-animate-duration="1s" swiper-animate-delay="2.5s">
+        		<img src="img/36.png"/>
+        	</div>
+        	<div class="four_img5 ani" swiper-animate-effect="zoomIn" swiper-animate-duration="1s" swiper-animate-delay="2.5s">
+        		<img src="img/37.png"/>
+        	</div>
+        	<div class="four_img6 ani" swiper-animate-effect="fadeInLeft" swiper-animate-duration="1s" swiper-animate-delay="1s">
+        		<img src="img/38.png"/>
+        	</div>
+        	<div class="four_img7 ani" swiper-animate-effect="rotateIn
+" swiper-animate-duration="1.5s" swiper-animate-delay="2s">
+        		<img src="img/39.png"/>
+        	</div>
+        	<div class="four_img8 ani" swiper-animate-effect="rotateIn
+" swiper-animate-duration="1.5s" swiper-animate-delay="2s">
+        		<img src="img/40.png"/>
+        	</div>
+        	<div class="four_img9 ani" swiper-animate-effect="zoomIn
+" swiper-animate-duration="1.5s" swiper-animate-delay="2s">
+        		<img src="img/1.jpg" />
+        	</div>
+        	<div class="four_img10 ani" swiper-animate-effect="zoomIn
+" swiper-animate-duration="1.5s" swiper-animate-delay="2s">
+        		<img src="img/3.jpg" />
+        	</div>
+        </div>
+        </div>
+    </div>
+    <!-- 如果需要分页器 -->
+    <div class="swiper-pagination"></div>
+</div>
